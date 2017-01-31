@@ -5,7 +5,7 @@
 const express = require('express');
 const app = express();
 
-const port = process.argv[2] || 3000;
+const port = process.env.PORT || 3000;
 
 // If no date parameter passed to API, then just display the static index.html.
 app.use(express.static(__dirname + '/public'));
