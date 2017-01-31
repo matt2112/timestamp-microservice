@@ -1,3 +1,5 @@
-# Timestamp microservice
+# Timestamp Microservice
 
-freeCodeCamp Node/Express challenge (unfinished)
+The first freeCodeCamp API project, built with Node and Express.
+
+View the app [here](https://mdl-timestamp.herokuapp.com/).
